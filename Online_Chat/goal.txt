@@ -1,0 +1,6 @@
+get the ip of anyone who eneters the application 
+send a message over a wifi
+make it so that username change only when 
+
+
+last thing) make it look better
